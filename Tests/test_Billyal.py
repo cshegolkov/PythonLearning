@@ -1,4 +1,4 @@
-from conftest import driver
+from Tests.conftest import driver
 from base_page import BasePage
 
 def billyal(driver):

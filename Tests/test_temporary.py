@@ -1,7 +1,7 @@
 import time
 from selenium.webdriver.common.by import By
 from base_page import BasePage
-from conftest import driver
+from Tests.conftest import driver
 
 # ОТКРЫВАЕМ СТРАНИЧКУ, ждем 5 секунд, закрываем
 def test_billy_al(driver):

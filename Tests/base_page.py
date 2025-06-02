@@ -1,4 +1,4 @@
-from conftest import driver
+from Tests.conftest import driver
 
 class BasePage:
     def __init__(self, driver, url):
